@@ -1,0 +1,89 @@
+.body{
+
+}
+.head{
+	width: 1356px;
+	margin-top: 0px;
+	margin-left: -15px;
+	margin-right: -15px;
+	height: 700px;
+	background-size: cover;
+	background-image: url("as/back1.jpg");
+}
+
+}
+.nav{
+
+     
+	height: 90px;
+	
+}
+.nav a{
+
+   text-decoration: none;
+	color: black;
+	
+}
+.nav button{ 
+    border: #08F896;
+    color: white;
+	border-radius: 7px;
+	background-color: #08F896;
+	float: right;
+	height: 43px;
+	width: 125px;
+	margin: 15px 70px 0px 100px;
+}
+
+.nav li{
+	
+	margin: 25px 10px 0px 40px ;
+    float: right;
+	text-decoration: block;
+	list-style: none;
+}
+
+//first part
+
+
+.second{
+	height: 800px;
+	
+	background-color: gray;
+}
+
+
+.bott button{
+	background-color: white;
+	color: black;
+	border-radius:40px;
+    margin-left: 30px;
+	width: 240px;
+	height:65px;
+
+}
+.bot button{
+	background-color: white;
+	color: black;
+	border-radius:40px;
+    margin-left: 30px;
+	width: 240px;
+	height:65px;
+}
+.btt button{
+    background-color: white;
+	color: black;
+	border-radius:40px;
+    margin-left: 30px;
+	width: 240px;
+	height:65px;
+}
+.bto button{
+	 background-color: white;
+	color: black;
+	border-radius:40px;
+    margin-left: 30px;
+	width: 240px;
+	height:65px;
+}
+
