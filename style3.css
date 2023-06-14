@@ -1,0 +1,39 @@
+.nav{
+
+	margin-top: 0px;
+	
+}
+.nav a{
+
+   text-decoration: none;
+	color: black;
+	
+}
+.nav button{ 
+    border: #08F896;
+    color: white;
+	border-radius: 7px;
+	background-color: #08F896;
+	float: right;
+	height: 43px;
+	width: 120px;
+	margin: 15px 70px 0px 100px;
+}
+
+.nav li{
+	margin: 20px 10px 0px 40px ;
+    float: right;
+
+	text-decoration: block;
+	list-style: none;
+}
+.third a{
+       text-decoration: none;
+       font-size: 24px;
+       margin-left: 20px;
+
+
+}
+.third{
+	margin-left: 400px;
+}
